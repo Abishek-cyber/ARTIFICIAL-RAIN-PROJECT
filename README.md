@@ -40,10 +40,14 @@ We know that the covid ruining the world and it is mandatotry to keep social dis
 Now a days, technology plays a crucial role to overcome all tough jobs into simpler one. Technology helps us to do all the activities at home using automation. We can use recent technologies like artificial intelligence, machine learning, data science, iot and cloud storage to handle this climatic change problem. 
 ### The idea
 
+Our idea is to produce artificial rain in dry lands to maintain moisture content in lands. We know that during summer we can clearly see the soil crack due to high raise in temperature (global warming).
+To overcome that, we use satellites to sense the land using (SAR SENSOR) which detects moisture and sends to ground center and if moisture is less, it sends small missile having cloud seeding chemicals to cloud to produce artificial rain. Then the moisture of soil increases. Here we use satellites to cover larger area to sense. Satellites can be used to send missiles but it is difficult. So,   the ground centers are used because the distance between center and cloud is lesser that the satellite and cloud. 
+
+
 
 ## Demo video
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/uuflFk_LQ-E)
 
 ## The architecture
 
