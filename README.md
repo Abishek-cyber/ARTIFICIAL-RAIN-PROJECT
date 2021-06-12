@@ -33,15 +33,13 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, keeping them engaged, entertained, and on top of their education is important.
+We know that the covid ruining the world and it is mandatotry to keep social distancing and people's contact. Our problem is to handle climatic changes during covid situations. Actually there is no solution to handle climatic changes. So we have to  think out of the box for solutions. Meanwhile we are undergoing covid situation, so there is a huge demand for automations during these hard circumstances. so our project will help to overcome these problems. 
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
-
+Now a days, technology plays a crucial role to overcome all tough jobs into simpler one. Technology helps us to do all the activities at home using automation. We can use recent technologies like artificial intelligence, machine learning, data science, iot and cloud storage to handle this climatic change problem. 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
 
 ## Demo video
 
